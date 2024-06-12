@@ -1,6 +1,9 @@
-# Python Keycloak Async
+# Python Keycloak Async 2
 
-For review- see https://github.com/quangpq/python-keycloak-async
+For review- see https://github.com/PidgeyBE/python-keycloak-async
+
+This is a fork of https://github.com/quangpq/python-keycloak-async which does not seem to be maintained any more.
+The goal of this repo is to maintain it and allow version bumps of dependencies.
 
 **python-keycloak-async** is a Python package providing access to the Keycloak API.
 
@@ -8,7 +11,7 @@ For review- see https://github.com/quangpq/python-keycloak-async
 
 ### Via Pypi Package:
 
-`$ pip install python-keycloak-async`
+`$ pip install python-keycloak-async2`
 
 ### Manually
 
@@ -34,7 +37,7 @@ python-keycloak-async depends on:
 ## Bug reports
 
 Please report bugs and feature requests at
-https://github.com/quangpq/python-keycloak-async/issues
+https://github.com/PidgeyBE/python-keycloak-async/issues
 
 ## Contributors
 
